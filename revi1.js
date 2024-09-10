@@ -7,4 +7,3 @@ for (var i = 0; i < 11; i++) {
     num2 = num1;
     num1 = resul;
 }
-console.log("feioso");
